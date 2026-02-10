@@ -21,7 +21,7 @@ Voice Input / Audio File
 → Text Processing & Summarization (TF-IDF based)
 
 ## Setup Instructions
-1. Install Python 3.8 or above
+1. Install Python 3.10
 2. Required libraries:
    - wave
    - os
