@@ -32,3 +32,9 @@ Voice Input / Audio File
 5. Run:
    ```bash
    python audio_chunking.py
+
+## Audio Declaration (Input)
+1. Language used: Tamil
+2. No. Of Speakers: 2
+3. Recording Environment: Walking (Used noise cancellation and silence cancellation to make audio more accurate by Audacity)
+4. relationship or context between speakers: Friends
